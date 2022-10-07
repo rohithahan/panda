@@ -1,8 +1,8 @@
 {
-  "name": "Wizard MD",
+  "name": "PANDA-SER",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Ajmal-Achu/Wizard-MD",
-  "logo": "https://telegra.ph/file/e0bc28185977299bf5d2c.jpg",
+  "repository": "https://github.com/rohithahan/panda",
+  "logo": "https://i.imgur.com/wqvSgTJ.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
   "addons": [{
@@ -30,12 +30,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": false,
-			"value": "AJMAL x ABHI"
+			"value": "PANDASER"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "918137975623"
 		},
 		"Caption": {
 			"description": "Add the owner location here and if you want to use the default name then just leave it",
@@ -50,7 +50,7 @@
 		"BOT_NAME": {
 			"description": "Change the bot name here",
 			"required": true,
-			"value": "Wizard MD"
+			"value": ""
 		},
 		"WATERMARK": {
 			"description": "Add your watermark here",
@@ -60,12 +60,12 @@
 		"STICKER_PACK_NAME": {
 			"description": "Add sticker pack name here",
 			"required": true,
-			"value": "Wizard-MD"
+			"value": "🇮🇩 ⃟⃪⃪⃪⃪⃪⃪⃪⃮⃕ ᭕⃯⭑--᪵ⷬ--᪵ⷶ--᪵ⷫ--᪵ͩ--᪵ͣ-᪵♫᪳--᪵ᷤ--᪵-᪵ͤ--᪵-ͬ-᪵⭑⃮💎"
 		},
 		"STICKER_AUTHOR_NAME": {
 			"description": "Add sticker pack author name here",
 			"required": true,
-			"value": "AJMAL x ABHI"
+			"value": ""
 		},
 		"REACT_EMOJI": {
 			"description": "Add any emoji here.",
@@ -75,12 +75,12 @@
                 "LOGO": {
 			"description": "Add any emoji here.",
 			"required": true,
-			"value": "https://telegra.ph/file/c9fed4e07198068a2ce53.jpg"
+			"value": "https://i.imgur.com/wqvSgTJ.jpeg"
 		},
                "VIDEOURL": {
 			"description": "Add a video url for gif menu and video menu",
 			"required": true,
-                        "value": "https://telegra.ph/file/c9fed4e07198068a2ce53.jpg"
+                        "value": "https://i.imgur.com/wqvSgTJ.jpeg"
 				
 		}
 	},
