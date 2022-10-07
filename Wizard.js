@@ -170,7 +170,7 @@ showAdAttribution: true,
 title: botname,
 body: caption,
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/Ajmal-Achu/Wizard-MD`,
+mediaUrl: `https://github.com/rohithahan/panda`,
 description: ownername,
 previewType: "PHOTO",
 thumbnail: thumbwiz,
@@ -8197,13 +8197,13 @@ case 'animemenu':{
   hydratedFooterText: `${global.botname}`,
   hydratedButtons: [{        
   "urlButton": {
-  "displayText": "SUBSCRIBE",
-  "url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+  "displayText": "CONTACT",
+  "url": "https://wa.me/+918137975623?text=*ʜᴇʟʟᴏ+ᴘᴀɴᴅᴀ+ꜱᴇʀ"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/rohithahan/panda'
   }
   }
   ]
@@ -8262,13 +8262,13 @@ case 'convertmenu': {
   hydratedFooterText: `${global.botname}`,
   hydratedButtons: [{        
   "urlButton": {
-  "displayText": "SUBSCRIBE",
-  "url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+  "displayText": "CONTACT",
+  "url": "https://wa.me/+918137975623?text=*ʜᴇʟʟᴏ+ᴘᴀɴᴅᴀ+ꜱᴇʀ"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/rohithahan/panda'
   }
   }
   ]
@@ -8328,7 +8328,7 @@ case 'toolmenu': {
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/rohithahan/panda'
   }
   }
   ]
@@ -8394,13 +8394,13 @@ case 'searchmenu':{
   hydratedFooterText: `${global.botname}`,
   hydratedButtons: [{        
   "urlButton": {
-  "displayText": "SUBSCRIBE",
-  "url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+  "displayText": "CONTACT",
+  "url": "https://wa.me/+918137975623?text=*ʜᴇʟʟᴏ+ᴘᴀɴᴅᴀ+ꜱᴇʀ"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+  url: 'https://github.com/rohithahan/panda'
   }
   }
   ]
@@ -8438,13 +8438,13 @@ hydratedContentText: anu,
 hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
-"displayText": "SUBSCRIBE",
-"url": "https://youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA"
+"displayText": "CONTACT",
+"url": "https://wa.me/+918137975623?text=*ʜᴇʟʟᴏ+ᴘᴀɴᴅᴀ+ꜱᴇʀ"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://wa.me/+918137975623?text=*ʜᴇʟʟᴏ+ᴘᴀɴᴅᴀ+ꜱᴇʀ'
 }
 }
 ]
