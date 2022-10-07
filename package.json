@@ -1,5 +1,5 @@
 {
-  "name": "wizard",
+  "name": "pandaser",
   "version": "1.0.0",
   "description": "Multi device whatsapp bot by Ajmal",
   "main": "starter.js",
@@ -92,10 +92,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-MD.git"
+    "url": "git+https://github.com/rohithahan/panda.git"
   },
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-MD/issues"
+    "url": "https://github.com/rohithahan/panda/issues"
   },
-  "homepage": "https://github.com/Ajmal-Achu/Wizard-MD#readme"
+  "homepage": "https://github.com/rohithahan/panda#readme"
 }
